@@ -1,0 +1,20 @@
+{% include head.html %}
+
+<h1>{{page.title}}</h1>
+
+{{content}}
+
+  {% for post in site.posts %}
+  <article class="markdown-body">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+
+<p> {{ post.excerpt }}</p>
+
+        </article>
+      
+
+  {% endfor %}
+
+   
+  
+{% include foot.html %}

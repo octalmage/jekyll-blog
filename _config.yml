@@ -1,0 +1,5 @@
+name: Jason Codes
+markdown: redcarpet
+pygments: true
+baseurl: /
+permalink: /:title
