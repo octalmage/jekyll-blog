@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Title"
+title: "Last.fm/iOS Hacking"
 ---
 
 I completely forgot about Last.fm. I have around 5 years of music logged and I'd like to continue using it. Recently I've been using Google Music for music, so I've got to scrobble from there. 
